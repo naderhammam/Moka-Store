@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524601980926",
+    "project_id": "moka-store",
+    "storage_bucket": "moka-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524601980926:android:3cfe4df60e278aa57e32af",
+        "android_client_info": {
+          "package_name": "com.example.moka_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524601980926-cf1cfqc8hpc25uaq53tf770lrjj9bof0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moka_store",
+            "certificate_hash": "aec0bd26050cedd23fd18d34d01744a7f42a721b"
+          }
+        },
+        {
+          "client_id": "524601980926-r7iv6a3e7kdphrnitnqh8eslogmqa4e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpxnDuSfhshs0YLFiA4NHxmpIfPRB484"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524601980926-r7iv6a3e7kdphrnitnqh8eslogmqa4e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
